@@ -1,7 +1,7 @@
 ---
-name: Minor in-game bug
-about: No crashes, just wrong behavior
-title: minor in-game
+name: Massive in-game bug
+about: Server crashing bugs
+title: Massive Bug report
 labels: ''
 assignees: berendbro
 
@@ -9,24 +9,21 @@ assignees: berendbro
 
 **Describe the bug**
 A clear and concise description of what the bug is.
-Where? what items/blocks?
 
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
-3. See strange behavior
+3. Get disconnected because server crashed
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots to help explain your problem. (crash screen if you get one)
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
- - Amount of RAM the game has (in GB)
-
 
 **Additional context**
 Add any other context about the problem here.
