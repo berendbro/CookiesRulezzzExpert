@@ -14,5 +14,5 @@
 4.1		place THE CONTENT of the "DOTminecraft" file IN your gamefolder (.minecraft for singleprofile launcher, multiprofile launchers: your chosen gamefolder)
 4.2		make a shortcut of the clientboot.vbs file on your desktop (mac users... there's a command file too, try it or meh)
 4.3		run the shortcut and wait untill the game pack is synced
-4.4		once the loading bar is done the syncing is done and the minecraft launcher pops up and you can play (unless you didn't install minecraft on your C drive, in that case edit sab.bat line 2)
+4.4		once the loading bar is done the syncing is done and the minecraft launcher pops up and you can play
 4.5		the server should also be in the server list already, if you're whitelisted you can join :D
