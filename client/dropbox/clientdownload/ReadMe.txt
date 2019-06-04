@@ -5,7 +5,7 @@
 2.1 	don't change anything in the setup (NO need to boot game)
 
 3		setup game profile
-3.1		set the name to EnigmatiCookie
+3.1		set the name to CookiesRulezzzExpert
 3.2		set the desired amount of RAM (minimal 6GB, more recommended)
 3.3		set the gamefolder if you use multiprofile launcher
 3.4		save and start the profile (this is just to make sure you see forge in the main menu)
