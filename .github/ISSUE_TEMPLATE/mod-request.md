@@ -7,6 +7,9 @@ assignees: Dzetacq, berendbro
 
 ---
 
+**Mod name and link**
+What's the name of your mod and provide a link to it's page on curseforge.
+
 **Is your feature request related to a problem or is it just an amazing mod? .**
 A clear and concise description of what the problem is or why this mod is so amazing.
 
